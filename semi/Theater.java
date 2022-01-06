@@ -27,6 +27,7 @@ class Theater		// 영화관 자료구조 부모클래스 → Admin 클래스에 상속
 		theater2 = new TreeMap<Integer, Movie>();
 		theater3 = new TreeMap<Integer, Movie>();
 	}
+	
 
 	protected void timeTable()	// 상영관마다 키값으로 상영시간표 분배해줌
 	{

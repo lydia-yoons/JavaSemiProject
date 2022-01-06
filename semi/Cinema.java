@@ -10,7 +10,6 @@ public class Cinema
 		Scanner sc = new Scanner(System.in);
 		Admin ad = new Admin();
 		
-
 		ad.dataStructure();		// admin에 필요한 자료구조
 		ad.makeUserList();		// 판매 모드에 필요한 자료구조 (티켓팅에 있던 메소드 호출용이었음, 없어도 돼 보이나 확인차 주석처리 상태)
 

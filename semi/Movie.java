@@ -5,7 +5,6 @@ class Movie
 	public int movieGrade;		// 연령제한
 	public boolean is3D;		// 3d 여부(true 3d, false 일반)
 
-	
 	public String[][] movieSeatArr;		// 영화관 좌석 배열
 	public int movieDate;				// 영화 시작일
 	public int movieTime;				// 영화 시작시간

@@ -14,7 +14,6 @@ class Customer
 	
 	public int ticketNumber;	// 예매번호(1000부터 ++ 4자리)
 
-	
 	public String getUserID()
 	{
 		return userID;
